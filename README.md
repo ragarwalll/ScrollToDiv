@@ -9,4 +9,4 @@ and add a attribute name "data" in your anchor tag which will have the value, th
 example->
 <a href="javascript:void(0)" data="container">Click on this div</a>
 
-//this will scroll to div having a class name "container", when we will the anchor tag
+//this will scroll to div having a class named "container", when we will click the anchor tag
