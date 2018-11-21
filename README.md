@@ -10,3 +10,7 @@ example->
 <a href="javascript:void(0)" data="container">Click on this div</a>
 
 //this will scroll to div having a class named "container", when we will click the anchor tag
+
+Note: Don't forget to link jquery
+example->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
